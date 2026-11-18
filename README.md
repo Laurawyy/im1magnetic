@@ -1,1 +1,1 @@
-# im1magnetic
+# Mein IM1 Projekt
